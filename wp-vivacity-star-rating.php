@@ -5,7 +5,7 @@
   Version: 1.0
   Author: Vivacity Infotech
   Author URI: http://vivacityinfotech.net/
-  Author Email: info@vivacityinfotech.net
+  Author Email: support@vivacityinfotech.net
   Text Domain: wp-vivacity-star-rating
   Domain Path: /languages/
  */

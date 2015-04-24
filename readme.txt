@@ -4,7 +4,7 @@ Donate link:http://bit.ly/1icl56K
 Tags: rating, wordpress, star ratings, votings, rate posts, ajax ratings, infinite stars,
 unlimited stars, simple rating, 
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
